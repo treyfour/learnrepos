@@ -1,4 +1,4 @@
-  # Learning Repos - Main Branch Version   
+# Learning Repos - Main branch version
 
 ## Getting Started
 
